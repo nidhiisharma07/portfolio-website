@@ -1,4 +1,4 @@
-import { gsap } from "gsap";
+/*import { gsap } from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { ScrollSmoother } from "gsap-trial/ScrollSmoother";
 import { SplitText } from "gsap-trial/SplitText";
@@ -78,3 +78,4 @@ export default function setSplitText() {
 
   ScrollTrigger.addEventListener("refresh", () => setSplitText());
 }
+*/
