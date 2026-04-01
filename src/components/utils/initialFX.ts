@@ -1,4 +1,5 @@
 //import { SplitText } from "gsap-trial/SplitText";
+/*
 npm install gsap
 import gsap from "gsap";
 import { smoother } from "../Navbar";
@@ -135,3 +136,6 @@ function LoopText(Text1: SplitText, Text2: SplitText) {
       1
     );
 }
+
+
+*/
