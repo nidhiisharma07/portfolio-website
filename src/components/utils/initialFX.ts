@@ -1,4 +1,5 @@
 //import { SplitText } from "gsap-trial/SplitText";
+npm install gsap
 import gsap from "gsap";
 import { smoother } from "../Navbar";
 
